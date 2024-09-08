@@ -1,0 +1,25 @@
+/* frontend/src/components/Cart.css */
+
+.cart {
+    padding: 2rem;
+  }
+  
+  .cart h2 {
+    margin-bottom: 1rem;
+  }
+  
+  .cart-item {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 1rem;
+  }
+  
+  .cart-item button {
+    background-color: #ff6347;
+    color: #fff;
+    border: none;
+    padding: 0.3rem 0.6rem;
+    cursor: pointer;
+    border-radius: 3px;
+  }
+  
