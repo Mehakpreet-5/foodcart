@@ -2,6 +2,8 @@
   "name": "foodd",
   "version": "1.0.0",
   "description": "",
+  "homepage": "https://mehakpreet-5.github.io/foodd/",
+
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
